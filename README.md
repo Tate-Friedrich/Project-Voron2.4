@@ -57,6 +57,7 @@ voron2.4-ldo-kit/
 ├── docs/        Build notes, references, and BOM
 ├── photos/      Progress and completed build photos
 └── README.md    This README file
+```
 
 ## 📸 Gallery & Prints
 
