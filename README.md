@@ -50,14 +50,18 @@ See the `/mods` folder for STLs, STEP files, and sources.
 
 ## 📁 Repository Structure
 
-Project-Voron2.4/
-├── config/                # Klipper config files
-├── mods/                  # Custom mod files (STLs, firmware patches, etc.)
-├── docs/                  # Build notes, references, BOM
-├── photos/                # Progress photos and completed build shots
-└── README.md              # This file
+- **config/** — Klipper configuration files  
+- **mods/** — Custom mods (STL files, firmware patches, etc.)  
+- **docs/** — Build notes, references, and BOM  
+- **photos/** — Progress and completed build photos  
+- **README.md** — This README file
 
-
+voron2.4-ldo-kit/
+├── config/
+├── mods/
+├── docs/
+├── photos/
+└── README.md
 
 ## 📸 Gallery & Prints
 
@@ -74,20 +78,3 @@ Check out `/prints` for test prints, timelapses, and performance comparisons. Pr
 - 📦 [LDO Documentation](https://docs.ldomotors.com/)
 - 💬 [Voron Discord](https://discord.gg/voron)
 - 🧠 [Klipper GitHub](https://github.com/Klipper3d/klipper)
-
-## 📋 To-Do
-
-- [ ] Complete CANbus setup documentation
-- [ ] Upload modified Stealthburner PCB mount
-- [ ] Add Input Shaper graphs for 300mm build
-- [ ] Finalize enclosure & exhaust fan wiring guide
-
-## 🤝 Contributions
-
-This project is tailored to my specific build but feel free to fork, star, or open issues with suggestions, questions, or improvements. I'm always open to collaboration and feedback from fellow Voron builders.
-
----
-
-Happy printing and modding!  
-🛠️ *Built with patience, ABS, and caffeine.*  
-— *[YourGitHubUsername]*
