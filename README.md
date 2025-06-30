@@ -50,18 +50,13 @@ See the `/mods` folder for STLs, STEP files, and sources.
 
 ## 📁 Repository Structure
 
-- **config/** — Klipper configuration files  
-- **mods/** — Custom mods (STL files, firmware patches, etc.)  
-- **docs/** — Build notes, references, and BOM  
-- **photos/** — Progress and completed build photos  
-- **README.md** — This README file
-
+```text
 voron2.4-ldo-kit/
-├── config/ # Klipper configuration files
-├── mods/ # Custom mods (STL files, firmware patches, etc.)
-├── docs/ # Build notes, references, and BOM
-├── photos/ # Progress and completed build photos
-└── README.md # This README file
+├── config/      Klipper configuration files
+├── mods/        Custom mods (STL files, firmware patches, etc.)
+├── docs/        Build notes, references, and BOM
+├── photos/      Progress and completed build photos
+└── README.md    This README file
 
 ## 📸 Gallery & Prints
 
