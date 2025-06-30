@@ -57,11 +57,11 @@ See the `/mods` folder for STLs, STEP files, and sources.
 - **README.md** — This README file
 
 voron2.4-ldo-kit/
-├── config/
-├── mods/
-├── docs/
-├── photos/
-└── README.md
+├── config/ # Klipper configuration files
+├── mods/ # Custom mods (STL files, firmware patches, etc.)
+├── docs/ # Build notes, references, and BOM
+├── photos/ # Progress and completed build photos
+└── README.md # This README file
 
 ## 📸 Gallery & Prints
 
