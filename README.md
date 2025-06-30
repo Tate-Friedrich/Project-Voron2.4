@@ -4,30 +4,29 @@ Welcome to the development repo for my **Voron 2.4 LDO Kit**! This project is a 
 
 ## 🔧 Project Overview
 
-This repository accompanies the main documentation site and contains:
+This README / Repository accompanies the main documentation site and contains:
 
-- ✅ Configuration files for Klipper firmware
-- ✅ Printer tuning profiles (Input Shaper, PID tuning, Pressure Advance)
-- ✅ CAD/STL mods and custom parts
-- ✅ Wiring diagrams and CAN setup (if applicable)
-- ✅ BOM updates and part substitutions
-- ✅ Notes on assembly challenges, fixes, and upgrades
-- ✅ Photos, test prints, and performance benchmarks
+- Configuration files for Klipper firmware
+- Printer tuning profiles (Input Shaper, PID tuning, Pressure Advance)
+- CAD/STL mods and custom parts
+- BOM updates and part substitutions
+- Notes on assembly challenges, fixes, and upgrades
+- Photos, test prints, and performance benchmarks
 
-## 📦 Build Details
+## Build Details
 
-- **Printer Model:** Voron 2.4r2
+- **Printer Model:** Voron 2.4r2 rev D
 - **Kit Manufacturer:** LDO Motors
 - **Build Volume:** 300mm³
-- **Mainboard:** BTT Octopus v1.1
+- **Mainboard:** ###
 - **Firmware:** Klipper + Fluidd
-- **CANbus:** [Optional] Using SB2209 + EBB36 CAN setup
+- **Toolhead Board:** ###
 - **Extruder:** Clockwork 2 + Stealthburner
 - **Hotend:** Phaetus Rapido HF
 - **Heated Bed:** 300W w/ Keenovo 230V silicone heater
-- **Power Supply:** Meanwell 24V 600W + 5V buck
+- **Power Supply:** ###
 
-## 🧪 Tuning & Calibration
+## Tuning & Calibration
 
 You'll find step-by-step tuning scripts, macros, and charts under `/tuning`:
 
@@ -36,17 +35,30 @@ You'll find step-by-step tuning scripts, macros, and charts under `/tuning`:
 - Pressure Advance calibration macros
 - Resonance graphs and frequency data
 
-## 🛠️ Modifications
+## Modifications
 
-This build includes several popular and custom mods:
+Current Mods:
 
 - Nevermore V5 Duo filter system
 - Stealthburner Toolhead PCB
-- Klicky Probe w/ TAP support optional
-- LED frame lighting + Neopixel logo mod
-- Printed DIN rail mounts and cable ducts
+- Voron CNC Tap 2.0
+
+Future Mods:
+
+- 
+- 
+-
 
 See the `/mods` folder for STLs, STEP files, and sources.
+
+## Gallery & Prints
+
+Check out `/prints` for test prints, timelapses, and performance comparisons. Print quality benchmarks include:
+
+- Voron Test Cube
+- ABS overhang and bridging towers
+- Speed Benchy (350mm/s+)
+- Functional enclosures & brackets
 
 ## 📁 Repository Structure
 
@@ -59,18 +71,9 @@ voron2.4-ldo-kit/
 └── README.md    This README file
 ```
 
-## 📸 Gallery & Prints
-
-Check out `/prints` for test prints, timelapses, and performance comparisons. Print quality benchmarks include:
-
-- Voron Test Cube
-- ABS overhang and bridging towers
-- Speed Benchy (350mm/s+)
-- Functional enclosures & brackets
-
 ## 🗂️ Related Links
 
-- 🔗 [Voron Design](https://vorondesign.com/)
-- 📦 [LDO Documentation](https://docs.ldomotors.com/)
-- 💬 [Voron Discord](https://discord.gg/voron)
-- 🧠 [Klipper GitHub](https://github.com/Klipper3d/klipper)
+- [Voron Design](https://vorondesign.com/)
+- [LDO Documentation](https://docs.ldomotors.com/)
+- [Voron Discord](https://discord.gg/voron)
+- [Klipper GitHub](https://github.com/Klipper3d/klipper)
