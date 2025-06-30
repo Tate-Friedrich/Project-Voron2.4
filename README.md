@@ -64,9 +64,11 @@ Check out `/prints` for test prints, timelapses, and performance comparisons. Pr
 
 ```text
 voron2.4-ldo-kit/
+├── docs/        Build notes, references, and BOM
 ├── config/      Klipper configuration files
 ├── mods/        Custom mods (STL files, firmware patches, etc.)
-├── docs/        Build notes, references, and BOM
+├── prints/      General test prints
+├── tuning/      Printer tuning files
 ├── photos/      Progress and completed build photos
 └── README.md    This README file
 ```
