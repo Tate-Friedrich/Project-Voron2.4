@@ -1,6 +1,6 @@
 # Voron 2.4 LDO Kit Development Project
 
-Welcome to the development repo for my **Voron 2.4 LDO Kit**! This project is a personal and technical journey into building and optimizing one of the most respected CoreXY 3D printers available today. The LDO kit provides a high-quality foundation, and this repository documents all modifications, upgrades, tuning steps, and learnings from my build process. This was my first foray into the world of 3D printing, as the idea of building from scratch to understand how 3D printers work was the primary goal of this build.
+Welcome to the development repo for my **Voron 2.4 LDO Kit**! This project is a personal and technical journey into building and optimizing one of the most respected CoreXY 3D printers available today. The LDO kit provides a high-quality foundation, and this repository documents all modifications, upgrades, tuning steps, and learnings from my build process. This was my first foray into the world of 3D printing, as the idea of building from scratch to understand how 3D printers work was the primary goal of this build. For more info on build progression and notes look under `docs/`!
 
 ## 🔧 Project Overview
 
@@ -28,7 +28,7 @@ This README / Repository accompanies the main documentation site and contains:
 
 ## Tuning & Calibration
 
-You'll find step-by-step tuning scripts, macros, and charts under `/tuning`:
+You'll find step-by-step tuning scripts, macros, and charts under `tuning/`:
 
 - Input Shaper using `ADXL345`
 - PID tuning for bed and hotend
@@ -49,11 +49,11 @@ Future Mods:
 - 
 -
 
-See the `/mods` folder for STLs, STEP files, and sources.
+See the `mods/` folder for STLs, STEP files, and sources.
 
 ## Gallery & Prints
 
-Check out `/prints` for test prints, timelapses, and performance comparisons. Print quality benchmarks include:
+Check out `prints/` for test prints, timelapses, and performance comparisons. Print quality benchmarks include:
 
 - Voron Test Cube
 - ABS overhang and bridging towers
