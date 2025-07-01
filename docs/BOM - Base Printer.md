@@ -1,7 +1,7 @@
 # Bill of Materials – Voron 2.4-300 + ChaoticLab CNC Voron TAP 2.0
 
 ## Overview
-This BOM includes all mechanical, electrical, structural, and miscellaneous parts required for assembling the Voron 2.4-300 printer, including the ChaoticLab CNC Voron TAP 2.0 kit. Categories are logically grouped to enhance clarity and usability.
+This BOM includes nearly all mechanical, electrical, structural, and miscellaneous parts required for assembling the Voron 2.4-300 printer, including the ChaoticLab CNC Voron TAP 2.0 kit. Honestly with all the 3D printed things and extra parts it is a  bit too much to keep track of, plus no one is really gonna need this as LDO does a fantastic job with their own BOM which is nearly the same.
 
 ---
 
