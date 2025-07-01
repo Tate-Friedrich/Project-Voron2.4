@@ -24,8 +24,8 @@ This README / Repository accompanies the main documentation site and contains:
 
 ### Electronics
 
-- **Mainboard:** ###  
-- **Toolhead Board:** Nitehawk-SB Toolboard
+- **Mainboard:** LDO VORON Leviathan V1.3 + Raspberry Pi 4B
+- **Toolhead Board:** LDO Nitehawk-SB Toolboard
 - **Firmware:** Klipper + Moonraker + MainsailOS  
 - **Power Supply (24 V):** MeanWell SE‑600‑24 (600 W, 25 A)  
 - **Heated Bed:** Keenovo 230 V, 300 W silicone heater + 5 mm aluminum tooling plate  
