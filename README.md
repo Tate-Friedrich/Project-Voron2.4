@@ -74,7 +74,7 @@ Check out `prints/` for test prints, timelapses, and performance comparisons. Pr
 ## 📁 Repository Structure
 
 ```text
-voron2.4-ldo-kit/
+Project-Voron2.4/
 ├── config/      Klipper configuration files
 ├── docs/        Build notes, references, and BOM
 ├── mods/        Custom mods (STL files, firmware patches, etc.)
