@@ -3,6 +3,8 @@
 ## Overview
 This BOM includes nearly all mechanical, electrical, structural, and miscellaneous parts required for assembling the Voron 2.4-300 printer, including the ChaoticLab CNC Voron TAP 2.0 kit. Honestly with all the 3D printed things and extra parts it is a  bit too much to keep track of, plus no one is really gonna need this as LDO does a fantastic job with their own BOM which is nearly the same.
 
+[Voron 2.4 300 mm BOM (Rev D)](https://docs.ldomotors.com/en/voron/voron2/300_BOM/Rev_D)
+
 ---
 
 Motion System & Drive Components</summary>
