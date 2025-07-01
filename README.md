@@ -19,17 +19,15 @@ This README / Repository accompanies the main documentation site and contains:
 - **Frame:** 2020 black-anodized aluminum extrusion, laser‑cut acrylic panels  
 - **Build Volume:** 300 × 300 × 300 mm  
 - **Guide Rails:** Hiwin MGN12H linear rails (X/Y/Z)  
-- **Motion System:** GT2‑6 mm belts, 20 tooth aluminum pulleys, stainless‑steel idlers  
-- **Lead Screws:** 8 mm T8 trapezoidal, 2 mm pitch, anti‑backlash nuts  
-
+- **Motion System:** GT2‑6 mm belts, 20 tooth aluminum pulleys, stainless‑steel idlers
+  
 ### Electronics
 
 - **Mainboard:** LDO VORON Leviathan V1.3 + Raspberry Pi 4B
 - **Toolhead Board:** LDO Nitehawk-SB Toolboard
 - **Firmware:** Klipper + Moonraker + MainsailOS  
-- **Power Supply (24 V):** MeanWell SE‑600‑24 (600 W, 25 A)  
-- **Heated Bed:** Keenovo 230 V, 300 W silicone heater + 5 mm aluminum tooling plate  
-- **Thermal Sensors:** PT1000 on hotend & bed, 100K NTC on toolboard  
+- **Power Supply (24 V):** MeanWell LRS‑200‑24 PSU (211 W, 8.8 A)  
+- **Heated Bed:** 300 W silicone heater + 5 mm aluminum tooling plate  
 
 ### Extrusion & Hotend
 
