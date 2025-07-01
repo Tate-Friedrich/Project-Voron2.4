@@ -99,9 +99,9 @@ Tools, Fasteners & Misc</summary>
 | Item | Qty |
 |------|-----|
 | Heatset Inserts (M3x5x4 Brass) | 153 |
-| Machine Screws (various BHCS, SHCS, FHCS, M2–M5) | Numerous |
-| Washers, M3 / M5 | Various |
-| T-nuts (Roll-in / Hammer Head, 2020, M3/M5) | Various |
+| Machine Screws (various BHCS, SHCS, FHCS, M2–M5) | Too Many |
+| Washers, M3 / M5 | Too Many |
+| T-nuts (Roll-in / Hammer Head, 2020, M3/M5) | Too Many |
 | Locking Washer, M5 | 2 |
 | Set Screws w/ Threadlocker | M3x2 (5), M4x4 (32) |
 | Hexnuts, M3 / M5 | 44 |
