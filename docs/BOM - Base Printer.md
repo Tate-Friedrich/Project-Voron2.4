@@ -5,8 +5,7 @@ This BOM includes all mechanical, electrical, structural, and miscellaneous part
 
 ---
 
-<details>
-<summary>🦾 Motion System & Drive Components</summary>
+Motion System & Drive Components</summary>
 
 | Item | Qty |
 |------|-----|
@@ -31,7 +30,7 @@ This BOM includes all mechanical, electrical, structural, and miscellaneous part
 ---
 
 <details>
-<summary>🦿 Linear Motion & Frame</summary>
+<summary> Linear Motion & Frame</summary>
 
 | Item | Qty |
 |------|-----|
@@ -45,8 +44,7 @@ This BOM includes all mechanical, electrical, structural, and miscellaneous part
 
 ---
 
-<details>
-<summary>⚙️ Motors & Transmission</summary>
+Motors & Transmission</summary>
 
 | Item | Qty |
 |------|-----|
@@ -62,8 +60,7 @@ This BOM includes all mechanical, electrical, structural, and miscellaneous part
 
 ---
 
-<details>
-<summary>🔌 Electronics & Wiring & Toolhead</summary>
+Electronics & Wiring & Toolhead</summary>
 
 | Item | Qty |
 |------|-----|
@@ -98,8 +95,7 @@ This BOM includes all mechanical, electrical, structural, and miscellaneous part
 
 ---
 
-<details>
-<summary>🧰 Tools, Fasteners & Misc</summary>
+Tools, Fasteners & Misc</summary>
 
 | Item | Qty |
 |------|-----|
@@ -125,8 +121,7 @@ This BOM includes all mechanical, electrical, structural, and miscellaneous part
 
 ---
 
-<details>
-<summary>💨 Fans, Cooling & Air</summary>
+Fans, Cooling & Air</summary>
 
 | Item | Qty |
 |------|-----|
@@ -139,8 +134,7 @@ This BOM includes all mechanical, electrical, structural, and miscellaneous part
 
 ---
 
-<details>
-<summary>🧱 Panels & Build Plate</summary>
+Panels & Build Plate</summary>
 
 | Item | Qty |
 |------|-----|
