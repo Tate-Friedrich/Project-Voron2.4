@@ -1,4 +1,4 @@
-# Voron 2.4 LDO Kit Development Project
+# ![Static Badge](https://img.shields.io/badge/-white?style=flat-square&logo=vorondesign&logoColor=%23ED3023&logoSize=auto) Voron 2.4 LDO Kit Development Project
 
 Welcome to the development repo for my **Voron 2.4 LDO Kit**! This project is a personal and technical journey into building and optimizing one of the most respected CoreXY 3D printers available today. The LDO kit provides a high-quality foundation, and this repository documents all modifications, upgrades, tuning steps, and learnings from my build process. This was my first foray into the world of 3D printing, as the idea of building from scratch to understand how 3D printers work was the primary goal of this build. For more info on build progression and notes look under `docs/`!
 
