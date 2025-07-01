@@ -14,17 +14,28 @@ This README / Repository accompanies the main documentation site and contains:
 - Photos, test prints, and performance benchmarks
 
 ## Build Details
+- **Printer Model:** Voron 2.4 r2 Rev D  
+- **Kit Manufacturer:** LDO Motors  
+- **Frame:** 2020 black-anodized aluminum extrusion, laser‑cut acrylic panels  
+- **Build Volume:** 300 × 300 × 300 mm  
+- **Guide Rails:** Hiwin MGN12H linear rails (X/Y/Z)  
+- **Motion System:** GT2‑6 mm belts, 20 tooth aluminum pulleys, stainless‑steel idlers  
+- **Lead Screws:** 8 mm T8 trapezoidal, 2 mm pitch, anti‑backlash nuts  
 
-- **Printer Model:** Voron 2.4r2 rev D
-- **Kit Manufacturer:** LDO Motors
-- **Build Volume:** 300mm³
-- **Mainboard:** ###
-- **Firmware:** Klipper + Fluidd
-- **Toolhead Board:** ###
-- **Extruder:** Clockwork 2 + Stealthburner
-- **Hotend:** Phaetus Rapido HF
-- **Heated Bed:** 300W w/ Keenovo 230V silicone heater
-- **Power Supply:** ###
+### Electronics
+
+- **Mainboard:** ###  
+- **Toolhead Board:** Nitehawk-SB Toolboard
+- **Firmware:** Klipper + Moonraker + MainsailOS  
+- **Power Supply (24 V):** MeanWell SE‑600‑24 (600 W, 25 A)  
+- **Heated Bed:** Keenovo 230 V, 300 W silicone heater + 5 mm aluminum tooling plate  
+- **Thermal Sensors:** PT1000 on hotend & bed, 100K NTC on toolboard  
+
+### Extrusion & Hotend
+
+- **Extruder:** Clockwork 2 (dual‑gear, 4:1 ratio) + Stealthburner hotend adapter  
+- **Hotend:** Phaetus Rapido HF — all‑metal, 24 V heater cartridge, 0.4 or 0.6 mm nozzle  
+- **Filament Path:** Bondtech QR coupler, Capricorn XS PTFE tubing  
 
 ## Tuning & Calibration
 
