@@ -29,8 +29,7 @@ Motion System & Drive Components</summary>
 
 ---
 
-<details>
-<summary> Linear Motion & Frame</summary>
+Linear Motion & Frame</summary>
 
 | Item | Qty |
 |------|-----|
