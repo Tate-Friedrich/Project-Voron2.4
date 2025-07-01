@@ -18,7 +18,7 @@ This README / Repository accompanies the main documentation site and contains:
 - **Kit Manufacturer:** LDO Motors  
 - **Frame:** 2020 black-anodized aluminum extrusion, laser‑cut acrylic panels  
 - **Build Volume:** 300 × 300 × 300 mm  
-- **Guide Rails:** Hiwin MGN12H linear rails (X/Y/Z)  
+- **Linear Rails:** LDO Kit Rails (LDO-SLR12H-350Z1/350Z0)
 - **Motion System:** GT2‑6 mm belts, 20 tooth aluminum pulleys, stainless‑steel idlers
   
 ### Electronics
@@ -27,7 +27,7 @@ This README / Repository accompanies the main documentation site and contains:
 - **Toolhead Board:** LDO Nitehawk-SB Toolboard
 - **Firmware:** Klipper + Moonraker + MainsailOS  
 - **Power Supply (24 V):** MeanWell LRS‑200‑24 PSU (211 W, 8.8 A)  
-- **Heated Bed:** 300 W silicone heater + 5 mm aluminum tooling plate  
+- **Heated Bed:** Cast 5083 Aluminium Blanchard Ground w/ LDO AC Heatpad & Thermal Fuse (125C)
 
 ### Extrusion & Hotend
 
